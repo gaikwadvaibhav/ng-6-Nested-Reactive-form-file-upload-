@@ -1,4 +1,4 @@
-# Ng5ImgUpload
+# Nested Reactive Form & ng-6 npm Image Upload 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
